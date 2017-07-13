@@ -1,11 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to Sample Twitter: a professional-grade sample application modelled after 
+(https://twitter.com/). 
 
-Things you may want to cover:
+Here are some of the specifications of the app.
 
-* Ruby version
+* Ruby 2.3.0p0
 
 * System dependencies
 
